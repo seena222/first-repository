@@ -5,4 +5,6 @@ am modification
 
 branch2
 
-changes made in local repo to pull the data in remote repo
+changes made in local repo to push the data in remote repo
+
+changes made in remote repo to pull the data in local repo
